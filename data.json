@@ -1,0 +1,50 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "starbak": [
+        {
+            "foto": "images/produk/product_starbuck.jpg",
+            "nama": "Starbak",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starbucksathome.com%2Fid%2Fid-id%2Fproduk%2Fbubuk&psig=AOvVaw30Sh6d63SJ31F-wC1KfcPh&ust=1685074982607000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDEzd7Pj_8CFQAAAAAdAAAAABAD"
+        }
+    ]
+}
